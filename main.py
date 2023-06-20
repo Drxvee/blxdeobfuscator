@@ -273,7 +273,6 @@ def obfuscate():
     if config['noemptylines']:
         pr('removing empty lines')
         result = ""
-        open(config['output'], 'w').close()
         with open(config['output'], "r+") as file:
             for line in file:
                 if not line.isspace():
