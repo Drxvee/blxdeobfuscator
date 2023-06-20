@@ -1,0 +1,18 @@
+{
+  "ildict": true,
+  "ilcount": 64,
+  "obfimports": true,
+  "obfvars": true,
+  "noemptylines": true,
+  "obfstrings": true,
+  "obfbytes": true,
+  "obfints": true,
+  "obfmethods": true,
+  "obffunctions": true,
+  "antideobf": true,
+  "suicideondeobf": true,
+  "rudeantideobf": true,
+  "msgs": true,
+  "input": "in.py",
+  "output": "out.py"
+}
