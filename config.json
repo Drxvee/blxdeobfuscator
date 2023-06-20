@@ -11,7 +11,7 @@
   "obffunctions": true,
   "antideobf": true,
   "suicideondeobf": true,
-  "rudeantideobf": true,
+  "rudeantideobf": false,
   "msgs": true,
   "input": "in.py",
   "output": "out.py"
