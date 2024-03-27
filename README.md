@@ -1,6 +1,6 @@
 # blxdeobfuscator
 
-A simple python code obfuscator
+A simple python code obfuscator made for fun 
 
 How does it work:
 1. Edit config.json as you like
